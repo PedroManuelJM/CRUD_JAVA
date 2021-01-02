@@ -3,6 +3,9 @@ Este ejercicio se muestra un ejemplo de CRUD usando el patrón MVC. El entorno q
 
 ![crud_java](https://user-images.githubusercontent.com/71619972/103432967-c8354f00-4bb6-11eb-9aef-be3cba00a351.PNG)
 
+
+![editardatos](https://user-images.githubusercontent.com/71619972/103448935-9aabdc80-4c6e-11eb-9b1a-edd291787119.PNG)
+
 :pencil: Conocimientos:
 - :ballot_box_with_check: JAVA
 - :ballot_box_with_check: MySQL
